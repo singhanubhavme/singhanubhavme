@@ -1,8 +1,8 @@
 # Hi There! 👋, I'm Anubhav Singh
 
-### A CSE undergraduate student, an aspiring full stack developer . Currently working on Backend Development . I’m passionate about learning new technologies.
+### A CSE undergraduate student, an aspiring full stack developer. Currently working on Backend Development. I’m passionate about learning new technologies.
 
--    👨‍💻  I’m currently learning  **Node.js (Express)**
+-    👨‍💻  Currently learning  **Node.js (Express)**
    
    
 -   ❓  Ask me about  **HTML5 ,CSS3, Bootstrap 4, Javascript(ES6), JQuery**
