@@ -5,7 +5,7 @@
 -    👨‍💻  Currently learning  **Node.js (Express)**
    
    
--   ❓  Ask me about  **HTML5 ,CSS3, Bootstrap 4, Javascript(ES6), JQuery**
+-   ❓  Ask me about  **HTML5 ,CSS3, Javascript(ES6), NodeJS, MongoDB**
     
 -   📫  How to reach me  **[singhanubhav58@gmail.com](mailto:singhanubhav@gmail.com)**
     
@@ -14,7 +14,7 @@
 ## Connect With Me.
 [![facebook](https://img.icons8.com/metro/50/000000/facebook-new--v2.png)](https://www.facebook.com/mr.awkwardd/) &nbsp; &nbsp;
 [![instagram](https://img.icons8.com/ios/50/000000/instagram-new--v2.png)](https://www.instagram.com/fake.anubhav/) &nbsp; &nbsp;
-[![linkedin](https://img.icons8.com/metro/50/000000/linkedin.png)](https://www.linkedin.com/in/anubhav-singh-4703851b3/) &nbsp; &nbsp;
+[![linkedin](https://img.icons8.com/metro/50/000000/linkedin.png)](https://www.linkedin.com/in/singhanubhav58/) &nbsp; &nbsp;
 
 ## Languages and Tools:
 <img src="https://img.icons8.com/color/50/000000/html-5.png"/> &nbsp;
