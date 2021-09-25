@@ -9,7 +9,6 @@
     
 -   📫  How to reach me  **[singhanubhav58@gmail.com](mailto:singhanubhav@gmail.com)**
     
--   😂   **[“hip”,”hip”] (hip hip array!)**
 
 ## Connect With Me.
 [![facebook](https://img.icons8.com/metro/50/000000/facebook-new--v2.png)](https://www.facebook.com/mr.awkwardd/) &nbsp; &nbsp;
