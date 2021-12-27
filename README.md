@@ -1,13 +1,15 @@
 # Hi There! 👋, I'm Anubhav Singh
 
-### An aspiring full stack developer. Currently working on Frontend Development. I’m passionate about learning new technologies.
+### An aspiring full stack developer. Currently working on App Development. I’m passionate about learning new technologies.
 
--    👨‍💻  Currently learning  **React JS**
+-    👨‍💻  Currently learning  **React Native**
    
    
--   ❓  Ask me about  **HTML5 ,CSS3, Javascript(ES6), NodeJS, MongoDB**
+-   ❓  Ask me about  **HTML5 ,CSS3, Bootstrap, Javascript(ES6), NodeJS, EJS, MongoDB**
     
 -   📫  How to reach me  **[singhanubhav58@gmail.com](mailto:singhanubhav@gmail.com)**
+
+-    🖇️ Would love to collab in **Web Dev**
     
 
 ## Connect With Me.
