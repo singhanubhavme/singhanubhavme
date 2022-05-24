@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhanubhavme" alt="singhanubhavme" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anubhavsinghdev" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavsinghdev?logo=twitter&style=for-the-badge" alt="anubhavsinghdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anubhavsinghdev" target="_blank"><img src="https://img.shields.io/twitter/follow/anubhavsinghdev?logo=twitter&style=for-the-badge" alt="anubhavsinghdev" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anubhavsinghdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhavsinghdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/singhanubhav58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhanubhav58" height="30" width="40" /></a>
-<a href="https://instagram.com/this.anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhavsinghdev" height="30" width="40" /></a>
-<a href="https://hashnode.com/@singhanubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@singhanubhav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/singh_anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_anubhav" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/singhanubhav/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhanubhav/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/anubhavsinghdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhavsinghdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/singhanubhav58" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhanubhav58" height="30" width="40" /></a>
+<a href="https://instagram.com/this.anubhav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhavsinghdev" height="30" width="40" /></a>
+<a href="https://hashnode.com/@singhanubhav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@singhanubhav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/singh_anubhav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_anubhav" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/singhanubhav/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhanubhav/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
