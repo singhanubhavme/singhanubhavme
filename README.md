@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Functions in Solidity](https://blog.anubhavsingh.dev/functions-in-solidity)
-- [How To Increase The Speed Of Your WordPress Blog?](https://blog.anubhavsingh.dev/how-to-increase-the-speed-of-your-wordpress-blog)
-- [How to host static files on GitHub pages?](https://blog.anubhavsingh.dev/how-to-host-static-files-on-github-pages)
-- [12 Best Software to use as a developer](https://blog.anubhavsingh.dev/12-best-software-to-use-as-a-developer)
-- [How to access the dark web in 2022?](https://blog.anubhavsingh.dev/how-to-access-the-dark-web-in-2022)
+- [Functions in Solidity](https://anubhavsingh.hashnode.dev/functions-in-solidity)
+- [How To Increase The Speed Of Your WordPress Blog?](https://anubhavsingh.hashnode.dev/how-to-increase-the-speed-of-your-wordpress-blog)
+- [How to host static files on GitHub pages?](https://anubhavsingh.hashnode.dev/how-to-host-static-files-on-github-pages)
+- [12 Best Software to use as a developer](https://anubhavsingh.hashnode.dev/12-best-software-to-use-as-a-developer)
+- [How to access the dark web in 2022?](https://anubhavsingh.hashnode.dev/how-to-access-the-dark-web-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
