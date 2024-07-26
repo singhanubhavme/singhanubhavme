@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhanubhavme" alt="singhanubhavme" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 Currently learning **Web**
 
 - 👨‍💻 All of my projects are available at [https://anubhavsingh.dev/projects/](https://anubhavsingh.dev/projects/)
 
 - 📝 I regularly write articles on [https://blog.anubhavsingh.dev/](https://blog.anubhavsingh.dev/)
 
-- 💬 Ask me about **Solidity, NodeJS, Express, JavaScript, Java**
+- 💬 Ask me about **Solidity, NodeJS, Express, JavaScript, Java, NextJS**
 
 - 📫 How to reach me **hi@anubhavsingh.dev**
 
