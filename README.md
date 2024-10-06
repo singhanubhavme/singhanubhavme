@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhanubhavme" alt="singhanubhavme" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anubhavsingh.dev](https://anubhavsingh.dev)
+- 👨‍💻 Portfolio [https://anubhavsingh.dev](https://anubhavsingh.dev) | [https://anubhavsingh.com](https://anubhavsingh.com)
 
 - 📝 I regularly write articles on [https://blog.anubhavsingh.dev/](https://blog.anubhavsingh.dev/)
 
