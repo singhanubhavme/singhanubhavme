@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://blog.anubhavsingh.dev/](https://blog.anubhavsingh.dev/)
 
-- 💬 Ask me about **Solidity, NodeJS, Express, JavaScript, Java, NextJS**
-
-- 📫 How to reach me **hi@anubhavsingh.dev**
+- 💬 Ask me about **NodeJS, Express, JavaScript, React.js, Next.js, Tailwind, GoLang**
+ 
+- 📫 How to reach me **singhanubhav58@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhavsinghdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhavsinghdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/singhanubhav58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhanubhav58" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anubhavsinghdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhanubhav58" height="30" width="40" /></a>
 <a href="https://instagram.com/anubhavsinghdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhavsinghdev" height="30" width="40" /></a>
 <a href="https://hashnode.com/@singhanubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@singhanubhav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/singh_anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_anubhav" height="30" width="40" /></a>
