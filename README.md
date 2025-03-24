@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.anubhavsingh.dev/](https://blog.anubhavsingh.dev/)
 
-- 💬 Ask me about **NodeJS, Express, JavaScript, React.js, Next.js, Tailwind, GoLang**
+- 💬 **NodeJS, Express, JavaScript, React.js, Next.js, Tailwind, GoLang**
  
 - 📫 How to reach me **singhanubhav58@gmail.com**
 
