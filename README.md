@@ -11,7 +11,7 @@
 
 - 💬 **NodeJS, Express, JavaScript, React.js, Next.js, Tailwind, GoLang**
  
-- 📫 How to reach me **singhanubhav58@gmail.com**
+- 📫 How to reach me **singhanubhav58@gmail.com** || **+91 9695 3828 75 **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
